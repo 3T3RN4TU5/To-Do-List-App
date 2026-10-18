@@ -1,0 +1,15 @@
+# To-Do List App
+
+Add, complete, edit and delete tasks in a simple to-do list.
+
+**Live:** https://jeevan2410.github.io/To-Do-List-App/
+
+![To-do list with three tasks and complete, edit and delete buttons](docs/screenshot.jpg)
+
+## Built with
+
+Plain HTML, CSS and JavaScript.
+
+## Run it locally
+
+Open `index.html` in a browser.
