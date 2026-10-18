@@ -6,6 +6,8 @@ Add, complete, edit and delete tasks in a simple to-do list.
 
 ![To-do list with three tasks and complete, edit and delete buttons](docs/screenshot.jpg)
 
+![Animated demo: adding three tasks to the to-do list](docs/demo.gif)
+
 ## Built with
 
 Plain HTML, CSS and JavaScript.
