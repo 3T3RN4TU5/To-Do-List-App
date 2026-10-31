@@ -2,7 +2,7 @@
 
 Add, complete, edit and delete tasks in a simple to-do list.
 
-**Live:** https://jeevan2410.github.io/To-Do-List-App/
+**Live:** https://3t3rn4tu5.github.io/To-Do-List-App/
 
 ![To-do list with three tasks and complete, edit and delete buttons](docs/screenshot.jpg)
 
